@@ -1,0 +1,33 @@
+<com.optomiadoctor.utils.DashboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:background="@android:color/transparent">
+
+    <TextView
+        android:id="@+id/txt_appointment_dashboard"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/appointment"
+        android:text="APPOINTMENT" />
+
+    <TextView
+        android:id="@+id/txt_request_patient_dashboard"
+        style="@style/DashboardButton"
+
+        android:drawableTop="@drawable/add_patient"
+        android:text="REFERRAL" />
+
+
+    <TextView
+        android:id="@+id/txt_profile_dashboard"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/profile"
+        android:text="PROFILE" />
+
+    <TextView
+        android:id="@+id/txt_history_dashboard"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/history"
+        android:text="HISTORY" />
+
+</com.optomiadoctor.utils.DashboardLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\OptomiaDoctor\\pulltorefresh-and-loadmore\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header.xml",
+        "source": "D:\\OptomiaDoctor\\pulltorefresh-and-loadmore\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "D:\\OptomiaDoctor\\pulltorefresh-and-loadmore\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\load_more_footer.xml",
+        "source": "D:\\OptomiaDoctor\\pulltorefresh-and-loadmore\\build\\intermediates\\bundles\\debug\\res\\layout\\load_more_footer.xml"
+    }
+]

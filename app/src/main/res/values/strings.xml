@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OptomiaDoctor</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_appointment_dashboard">AppointmentDashboardActivity</string>
+    <string name="title_activity_todats_appointment">TodatsAppointmentActivity</string>
+    <string name="title_activity_precious_appointment">PreciousAppointmentActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_request_patient">RequestPatientActivity</string>
+    <string name="title_activity_doctor_profile">DoctorProfileActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>

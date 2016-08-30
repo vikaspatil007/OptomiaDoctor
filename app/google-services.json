@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "910786379348",
+    "project_id": "optimia-doctor"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910786379348:android:2358799fb52331ed",
+        "android_client_info": {
+          "package_name": "com.optomiadoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivjwN1J1hrk04I5MdLUFtwN0-_-b3WfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
